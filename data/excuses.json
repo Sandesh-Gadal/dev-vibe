@@ -1,0 +1,10 @@
+[
+  { "text": "It works on my machine." },
+  { "text": "That's not a bug, it's an undocumented feature." },
+  { "text": "It must be a caching issue." },
+  { "text": "Someone must have changed something in production." },
+  { "text": "The tests passed locally." },
+  { "text": "It's a known issue with the framework." },
+  { "text": "I didn't touch that file, I swear." },
+  { "text": "Mercury is in retrograde, and so is the database." }
+]

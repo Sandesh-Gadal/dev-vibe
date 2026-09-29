@@ -1,0 +1,47 @@
+{
+  "name": "dev-vibe",
+  "version": "0.1.0",
+  "description": "Developer persona generator and community-built micro-utility toolbox for the terminal.",
+  "keywords": [
+    "cli",
+    "developer",
+    "humor",
+    "hacktoberfest"
+  ],
+  "type": "module",
+  "bin": {
+    "dev-vibe": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "data"
+  ],
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "validate:data": "tsx scripts/validate-data.ts",
+    "check": "npm run validate:data && npm run lint && npm run typecheck && npm test",
+    "prepublishOnly": "npm run check && npm run build"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1",
+    "commander": "^15.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^26.6.3",
+    "eslint": "^10.11.0",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.71.0",
+    "vitest": "^5.0.2"
+  },
+  "license": "MIT"
+}

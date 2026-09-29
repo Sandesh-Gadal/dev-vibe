@@ -1,0 +1,10 @@
+[
+  { "text": "Your commit history reads like a ransom note: 'fix', 'fix again', 'actually fix'." },
+  { "text": "You wrote 'minor changes' on a commit that touched 84 files." },
+  { "text": "Your most descriptive commit message to date is 'asdf'." },
+  { "text": "You force-push to main with the confidence of someone who has never read git log." },
+  { "text": "'WIP' has been in your commit messages since the last major version." },
+  { "text": "Your commits say 'final version'. There have been eleven final versions." },
+  { "text": "You committed node_modules and called it 'vendoring'." },
+  { "text": "Your commit message is just the ticket number, and the ticket just says 'see commit'." }
+]

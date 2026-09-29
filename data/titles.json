@@ -1,0 +1,42 @@
+[
+  {
+    "emoji": "🧙",
+    "title": "The Regex Wizard",
+    "description": "Writes patterns nobody else can read, including themselves a week later."
+  },
+  {
+    "emoji": "🦆",
+    "title": "The Rubber Duck Whisperer",
+    "description": "Solves every bug by explaining it out loud, usually to an empty room."
+  },
+  {
+    "emoji": "🔥",
+    "title": "The Friday Deployer",
+    "description": "Believes production is the best staging environment. Weekends are for incident calls."
+  },
+  {
+    "emoji": "📚",
+    "title": "The Tab Hoarder",
+    "description": "Has 147 browser tabs open, and every single one is 'important documentation'."
+  },
+  {
+    "emoji": "🧹",
+    "title": "The Refactor Goblin",
+    "description": "Came in to fix a typo, left having rewritten the build system."
+  },
+  {
+    "emoji": "☕",
+    "title": "The Caffeine Compiler",
+    "description": "Converts coffee into code at a rate of roughly one cup per merge conflict."
+  },
+  {
+    "emoji": "🕵️",
+    "title": "The Stack Overflow Archaeologist",
+    "description": "Digs up accepted answers from 2011 and ships them with total confidence."
+  },
+  {
+    "emoji": "🌙",
+    "title": "The 3 A.M. Committer",
+    "description": "Their best code happens after midnight. So does their worst."
+  }
+]
