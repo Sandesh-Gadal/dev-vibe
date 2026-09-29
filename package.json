@@ -43,5 +43,12 @@
     "typescript-eslint": "^8.71.0",
     "vitest": "^5.0.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/Sandesh-Gadal/dev-vibe.git"
+  },
+  "homepage": "https://github.com/Sandesh-Gadaldev-vibe",
+  "bugs": {
+    "url": "https://github.com/Sandesh-Gadal/dev-vibe/issues"
+  }
 }
