@@ -1,6 +1,6 @@
 # ⚡ DevVibe CLI
 
-> The open-source developer persona generator and micro-utility toolbox for the terminal. Built for Hacktoberfest! 🚀
+> The open-source developer persona generator and micro-utility toolbox for the terminal. Community-built and beginner-friendly! 🚀
 
 ## 📦 Installation & Usage
 
@@ -92,7 +92,7 @@ Want to see your tool here? Build it! See below.
 
 ## 🤝 Contributing
 
-Want to add a funny title, a roast, an excuse or a whole new CLI command? Read [CONTRIBUTING.md](CONTRIBUTING.md) to get started and earn your Hacktoberfest badge. Adding a JSON entry takes about two minutes and needs no coding.
+Want to add a funny title, a roast, an excuse or a whole new CLI command? Read [CONTRIBUTING.md](CONTRIBUTING.md) to get started, or pick one of the [good first issues](https://github.com/Sandesh-Gadal/dev-vibe/issues?q=is%3Aopen+label%3A%22good+first+issue%22). Adding a JSON entry takes about two minutes and needs no coding, and your GitHub username shows up in the CLI next to your entry.
 
 ## 🛠️ Local development
 

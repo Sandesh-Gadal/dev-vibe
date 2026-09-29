@@ -1,6 +1,8 @@
 # Contributing to DevVibe 🌟
 
-We love community contributions! Whether you're a seasoned developer or making your very first open-source pull request for Hacktoberfest, here's how you can help.
+We love community contributions! Whether you're a seasoned developer or making your very first open-source pull request, here's how you can help.
+
+> **About Hacktoberfest 2026:** this year, [Hacktoberfest](https://hacktoberfest.com/) no longer counts pull requests toward its rewards. We still welcome contributions in October and all year round. Your reward here is credit: add your GitHub username to your entry, and the CLI shows it.
 
 ## Way 1: Add Data (Beginner Friendly, No Code Required)
 
