@@ -11,7 +11,7 @@ You need [Node.js](https://nodejs.org) 22.12 or newer and [git](https://git-scm.
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/SANDESH GADAL/dev-vibe.git
+git clone https://github.com/Sandesh-Gadal/dev-vibe.git
 cd dev-vibe
 ```
 
